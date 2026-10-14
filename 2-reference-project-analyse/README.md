@@ -13,6 +13,7 @@ On Monday morning after the deadline, you will present and explain your project 
 - Window tiles with multithreading
 - Particle system
 - Font system
+
 They should have the same capabilities as the reference project.
 
 
