@@ -1,3 +1,0 @@
-# Last rendering features
-
-WIP

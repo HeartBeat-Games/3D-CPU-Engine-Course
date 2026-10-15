@@ -1,13 +1,14 @@
 # Base Courses
 
-[Github link](https://github.com/rodrigogq/3d-cpu-engine)
+## Project
 
-## Project and Deadline
+Follow the courses [here](https://github.com/rodrigogq/3d-cpu-engine) and implement all features explained.
+
+## Presentation and Deadline
 
 Due date : ` 17 october 2026 / 12pm `
 
 Any changes after that won't be taken into account for the milestone.
-
 
 On Monday morning after the deadline, you will present and explain your project to the instructor. It must contain all features of the 12 chapters.
 
