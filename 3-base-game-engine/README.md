@@ -4,17 +4,13 @@
 
 For something as big and with a need of scalability and testability as a game engine, there is no architecture which makes more sense than an ECS.
 
-- [Introduction](ecs/README.md)
-
-- There is a CppCon conference about an implementation from Vittorio Romeo :
-[Youtube link](https://www.youtube.com/watch?v=NTWSeQtHZ9M)
-
-- You can find the repository he worked on (more updated than the video) [here](https://github.com/vittorioromeo/ecst)
+- [Explanations and implementation sample](ecs/README.md)
 
 ## Bonus ideas
 
 - [Concepts and constraints](https://en.cppreference.com/cpp/language/constraints)
 - [Modules](https://en.cppreference.com/cpp/language/modules)
+- Advanced ECS memory layout : Archetypes storage
 - Advanced ECS features like system scheduling and ordonancing
 
 These are both C++ 20 features.
