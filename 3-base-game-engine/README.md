@@ -4,7 +4,7 @@
 
 For something as big and with a need of scalability and testability as a game engine, there is no architecture which makes more sense than an ECS.
 
-- [Introduction](3-base-game-engine/ecs/README.md)
+- [Introduction](ecs/README.md)
 
 - There is a CppCon conference about an implementation from Vittorio Romeo :
 [Youtube link](https://www.youtube.com/watch?v=NTWSeQtHZ9M)
