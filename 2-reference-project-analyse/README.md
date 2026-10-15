@@ -2,14 +2,14 @@
 
 ## Project
 
-- [Reference project](https://github.com/vectozavr/3dzavr)
+Analyse these repositories and implement the specified features.
 
-Analyse the repository above to implement this new features :
+**[Reference project](https://github.com/vectozavr/3dzavr)**
 - "Shaders" and Materials
 - Fonts
 - Rendering passes / Transparency
 
-- [School reference project](https://github.com/sylvainseccia/cpu-engine) (Also a good exemple of a bad architecture)
+**[School reference project](https://github.com/sylvainseccia/cpu-engine)** (Also a good exemple of a bad architecture)
 - Window partitioning with multithreading
 - Simple pixel particle system
 

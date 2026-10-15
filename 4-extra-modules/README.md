@@ -4,6 +4,7 @@
 
 With your brand new *game engine* and your *graphic module*, create a new *editor module* containing the following feature :
 - Procedural terrain generation with noise for height and a simple texture
+
 And a simple *ui module* with :
 - Canvas
 - Image
