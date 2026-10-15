@@ -2,12 +2,16 @@
 
 ## Project
 
-- [Reference project](https://github.com/sylvainseccia/cpu-engine)
+- [Reference project](https://github.com/vectozavr/3dzavr)
 
 Analyse the repository above to implement this new features :
-- Window tiles with multithreading
-- Particle system
-- Font system
+- "Shaders" and Materials
+- Fonts
+- Rendering passes / Transparency
+
+- [School reference project](https://github.com/sylvainseccia/cpu-engine) (Also a good exemple of a bad architecture)
+- Window partitioning with multithreading
+- Simple pixel particle system
 
 ## Presentation and Deadline
 

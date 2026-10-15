@@ -6,6 +6,8 @@ For something as big and with a need of scalability and testability as a game en
 
 - [Explanations and implementation sample](ecs/README.md)
 
+This part of the project is also a good moment to start using unit test ([Goolge Test](https://google.github.io/googletest/) or something else). *Required from now on*.
+
 ## Bonus ideas
 
 - [Concepts and constraints](https://en.cppreference.com/cpp/language/constraints)

@@ -1,15 +1,19 @@
-# User interface module
+# Extra modules
 
 ## Project
 
-With your brand new *game engine* and your *graphic module*, create a new *ui module* containing the following features :
+With your brand new *game engine* and your *graphic module*, create a new *editor module* containing the following feature :
+- Procedural terrain generation with noise for height and a simple texture
+And a simple *ui module* with :
 - Canvas
 - Image
 - Text
 
 ## Bonus ideas
 
-- XML parser for UI elements
+- HeightMap parser for terrain generation
+- SplatMap support for terrain "shader"
+- Simple Input Module
 
 ## Presentation and Deadline
 
@@ -17,7 +21,7 @@ Due date : ` 5 november 2026 / 12pm `
 
 Any changes after that won't be taken into account for the milestone.
 
-On friday morning after the deadline, you will present and explain your project to the instructor. It must contain the new ui features. The integration into the game engine is one of the key point.
+On friday morning after the deadline, you will present and explain your project to the instructor and the whole class. The integration into the game engine of the new features is one of the key point.
 
 `This presentation is the last one so you will have to present quickly the whole project and you'll have the possibility to show off previous missing features.`
 
