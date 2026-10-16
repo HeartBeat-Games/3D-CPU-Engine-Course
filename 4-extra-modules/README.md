@@ -15,6 +15,7 @@ And a simple *ui module* with :
 - HeightMap parser for terrain generation
 - SplatMap support for terrain "shader"
 - Simple Input Module
+- XML parser for UI elements
 
 ## Presentation and Deadline
 

@@ -15,8 +15,6 @@ This part of the project is also a good moment to start using unit test ([Goolge
 - Advanced ECS memory layout : Archetypes storage
 - Advanced ECS features like system scheduling and ordonancing
 
-These are both C++ 20 features.
-
 ## Presentation and Deadline
 
 Due date : ` 1 november 2026 / 12pm `
