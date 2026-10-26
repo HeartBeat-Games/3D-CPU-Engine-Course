@@ -9,13 +9,18 @@ And a simple *ui module* with :
 - Canvas
 - Image
 - Text
+- "XML" parser for UI Elements (something you can modify by hand)
+
+## Implementation points
+
+- Procedural terrain : 5 pts
+- UI module : 10 pts
 
 ## Bonus ideas
 
 - HeightMap parser for terrain generation
 - SplatMap support for terrain "shader"
 - Simple Input Module
-- XML parser for UI elements
 
 ## Presentation and Deadline
 

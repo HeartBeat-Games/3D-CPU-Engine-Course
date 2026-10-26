@@ -22,4 +22,4 @@
 | *Bonus* | *25* |
 
 -----
-**You'll lose -10 points for each function with code you can't explain, copy/pasted or AI.**
+**You'll lose -10 points for each function with code you can't explain, copy/pasted or AI. Messy code ("spaghetti code", "copy/paste"...) can also make you lose points.**

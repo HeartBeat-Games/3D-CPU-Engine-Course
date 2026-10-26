@@ -13,6 +13,11 @@ Analyse these repositories and implement the specified features.
 - Window partitioning with multithreading
 - Simple pixel particle system
 
+## Implementation points
+
+- Materials/Fonts/Transparency : 5 pts
+- Window partitioning/Particle system : 5 pts
+
 ## Presentation and Deadline
 
 Due date : ` 24 october 2026 / 12pm `

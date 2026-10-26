@@ -38,9 +38,17 @@ To answer all the problems of *scalability*, *testability* and *performances* sa
 
 - `System`: Systems are responsible for processing entities that have specific sets of components. Each system encapsulates a specific functionality or behavior, such as rendering, physics simulation, AI, input handling, or collision detection. Systems operate on the data contained within the components and can access and modify their properties.
 
-## Implementation sample
+## Implementation samples
 
 - There is a CppCon conference about an implementation from Vittorio Romeo :
-[Youtube link](https://www.youtube.com/watch?v=NTWSeQtHZ9M)
+[Youtube link](https://www.youtube.com/watch?v=51qSGUtaJwc)
 
-- You can find the repository he worked on (more updated than the video) [here](https://github.com/vittorioromeo/ecst)
+- You can find the repository he worked on (more updated than the video) here : [ecst](https://github.com/vittorioromeo/ecst)
+
+- [flecs](https://github.com/SanderMertens/flecs) pretty popular and mostly using C syntax
+- [entt](https://github.com/skypjack/entt) the most popular one in C++, more friendly than ecst
+
+
+If you want to, there is also Unity implementation (I think you can only download the package inside Unity, but the code is readable).
+
+If you do, don't forget [this github](https://github.com/Unity-Technologies/EntityComponentSystemSamples).

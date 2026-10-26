@@ -6,14 +6,20 @@ For something as big and with a need of scalability and testability as a game en
 
 - [Explanations and implementation sample](ecs/README.md)
 
-This part of the project is also a good moment to start using unit test ([Goolge Test](https://google.github.io/googletest/) or something else). *Required from now on*.
+This part of the project is also a good moment to start using unit test ([Goolge Test](https://google.github.io/googletest/) or something else). Also add and respect a **C++ code style** and make sure to use **CMake**. *Required from now on*.
+
+## Implementation points
+
+- Functional ECS library : 5 pts
+- Internal data and architecture with, as minimun, the concepts of the conference (flow, one array by component, entity manager with Sparse Integer Set...) : 5 pts
+- Multithreading system scheduler with read and write logic on components : 5 pts
 
 ## Bonus ideas
 
 - [Concepts and constraints](https://en.cppreference.com/cpp/language/constraints)
 - [Modules](https://en.cppreference.com/cpp/language/modules)
 - Advanced ECS memory layout : Archetypes storage
-- Advanced ECS features like system scheduling and ordonancing
+- Advanced ECS features like group systems, command buffer...
 
 ## Presentation and Deadline
 
