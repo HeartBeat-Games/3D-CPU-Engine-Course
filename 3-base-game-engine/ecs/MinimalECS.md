@@ -133,7 +133,7 @@ class EntityManager
     {
         // Créé le bitset de la recherche avec la liste des componentIDs
         // Créé le vector des Entity(int) qui respectent le bitset de la recherche
-        // C'est clairement l'endroit ou les performances s'effondrent le plus
+        // C'est clairement l'endroit ou les performances s'effondrent le plus, un iterator serait déjà moins horrible
     }
 }
 ```
