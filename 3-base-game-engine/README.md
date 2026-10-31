@@ -13,7 +13,6 @@ This part of the project is also a good moment to start using unit test ([Goolge
 
 - Functional ECS library : 5 pts
 - Internal data and architecture with, as minimun, the concepts of the conference (flow, one array by component, entity manager with Sparse Integer Set...) : 5 pts
-- Multithreading system scheduler with read and write logic on components : 5 pts
 
 ## Bonus ideas
 

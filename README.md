@@ -13,13 +13,13 @@
 | --------------- | --------------- |
 | Data structure | 10 |
 | Algorithms readability/efficiency | 10 |
-| Step 1 - Base courses | 40 |
+| Step 1 - Base courses | 50 |
 | Step 2 - Projects analyse | 10 |
-| Step 3 - ECS | 15 |
-| Step 4 - Extra modules | 15 
+| Step 3 - ECS | 10 |
+| Step 4 - Extra modules | 10 
 | **Total** | **100** |
 | --------------- | --------------- |
-| *Bonus* | *25* |
+| *Bonus* | *20* |
 
 -----
 **You'll lose -10 points for each function with code you can't explain, copy/pasted or AI. Messy code ("spaghetti code", "copy/paste"...) can also make you lose points.**

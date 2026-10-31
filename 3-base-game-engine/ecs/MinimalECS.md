@@ -140,7 +140,7 @@ class EntityManager
 ## ECS
 
 ```cpp
-using system = std::function<EntityManager&>;
+using system = std::function<void(EntityManager&)>;
 
 class ECS {
     EntityManager em;
@@ -157,3 +157,8 @@ class ECS {
     }
 }
 ```
+
+## What's next ?
+
+Simply create one or several sytems for your graphic pipeline/module.
+At least one entity for the cow with the needed components and your drawMeshes inside a system.

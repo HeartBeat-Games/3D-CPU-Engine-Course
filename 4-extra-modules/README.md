@@ -14,7 +14,7 @@ And a simple *ui module* with :
 ## Implementation points
 
 - Procedural terrain : 5 pts
-- UI module : 10 pts
+- UI module : 5 pts
 
 ## Bonus ideas
 

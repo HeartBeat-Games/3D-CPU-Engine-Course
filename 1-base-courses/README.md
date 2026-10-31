@@ -6,10 +6,10 @@ Follow the courses [here](https://github.com/rodrigogq/3d-cpu-engine) and implem
 
 ## Implementation points
 
-- Chapter 1-5 : 10 pts
+- Chapter 1-5 : 15 pts
 - Chapter 6-9 : 10 pts
 - Chapter 7-8-12 : 10 pts
-- Chapter 10-11 : 10 pts
+- Chapter 10-11 : 15 pts
 
 To claim the points you need to show off a code that's not copy/pasted (not even with different names...). You need to use struct and functions to make the code you own.
 
