@@ -5,6 +5,7 @@
 For something as big and with a need of scalability and testability as a game engine, there is no architecture which makes more sense than an ECS.
 
 - [Explanations and implementation sample](ecs/README.md)
+- [Minimal ECS](ecs/MinimalECS.md)
 
 This part of the project is also a good moment to start using unit test ([Goolge Test](https://google.github.io/googletest/) or something else). Also add and respect a **C++ code style** and make sure to use **CMake**. *Required from now on*.
 
